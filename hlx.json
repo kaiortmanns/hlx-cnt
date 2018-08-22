@@ -1,0 +1,9 @@
+{
+  "tpl": {
+    "owner": "kaiortmanns",
+    "repo": "hlx-tpl",
+    "ref": "master",
+    "path": "index.mst",
+    "type": "mustache"
+  }
+}
